@@ -1,8 +1,8 @@
 # Credit_Risk_Analysis
 
-## Purpose - the purpose of the project was to develop a Supervised machine learning model to aid in the credit analysis review of application for loan. An accurate model can aid in timing, resourcing and efficiency of the lion screening process. 
+# Purpose - the purpose of the project was to develop a Supervised machine learning model to aid in the credit analysis review of application for loan. An accurate model can aid in timing, resourcing and efficiency of the lion screening process. 
 
-## Descriptions - The project contains two Jupiter note books and utilized Loan data sourced from Lending Club, a peer to peer company. The data was split into test and train sets and scaled for consumption.
+# Descriptions - The project contains two Jupiter note books and utilized Loan data sourced from Lending Club, a peer to peer company. The data was split into test and train sets and scaled for consumption.
 	Notebook titled Credit_risk_resampling is a resampling analysis of the data. The notebook cleans the data and then runs it though two over sampling, one under sampling and one combined sampling algorithms to determine which algo yields the most accurate results based on imbalanced classification reports.  
 
 Over sampling - Nave Over sampling and Smote Over sampling 
