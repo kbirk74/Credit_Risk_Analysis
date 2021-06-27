@@ -19,6 +19,7 @@ Over sampling - of the two models tested Smote performed the best yielding a F1 
 
 Under sampling - under sampling with Cluster Centroids gave equivalent results to Smoteen and did not improve any of the metrics  in the classification report.  
 
+
 Combined sampling - produced a good precision score but performed the worst of all sampling models in recall and resulted in a 56% F1 score. 
 
 
@@ -28,4 +29,6 @@ Combined sampling - produced a good precision score but performed the worst of a
 Of the two  Machine learning models, Radome Forest produced the best results with 99% in accuracy, precessions and F1 score.  
 
 ##Conclusion - based on the comparative analysis of the data set the best performers  are Smoteen sampling and Random Forest Modeling. 
+
+Reference Jupiter notebooks for more detail on classification repots. 
 
